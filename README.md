@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Seema Singh
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=10%2B+Years+in+Software+Testing;Selenium+%7C+Java+%7C+TestNG;Playwright+%7C+JavaScript;API+Testing+%7C+Performance+Testing;Exploring+GenAI+in+Quality+Engineering" alt="Typing animation" />
 ### 🚀 QA Automation Engineer | SDET | Test Automation Enthusiast
 
 > **“Quality is not an act, it is a habit.”**
@@ -10,68 +10,72 @@
 ## <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/050bf2c8-0155-44f7-a1cb-40b65d99975b" />
 
 
-```text
-╔══════════════════════════════════════╗
-║                                      ║
-║          Seema Singh                 ║
-║      QA Automation Engineer          ║
-║                                      ║
-║   Manual Testing • Automation        ║
-║   Playwright • Selenium • API        ║
-║                                      ║
-╚══════════════════════════════════════╝
-```
+<!-- PROFILE README FOR: https://github.com/seemaqaer-bit -->
+
+<div align="center">
+
+
+**I don't just test software — I help build confidence in every release.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/seemaqaer-bit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+![Profile Views](https://komarev.com/ghpvc/?username=seemaqaer-bit&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
-# 🏆 Achievements & Expertise
+## 💫 About Me
 
-* 💼 **10+ years of experience** in Software Testing
-* 🤖 Strong experience in **UI Test Automation**
-* 🎭 Hands-on experience with **Playwright + TypeScript**
-* 🛠️ Experience with **Selenium WebDriver + Java**
-* 🔌 API testing experience using **Postman & Rest Assured**
-* 🧩 Experience designing **Page Object Model (POM)** frameworks
-* 🔄 Experience with **CI/CD and Jenkins**
-* 🌐 Cross-browser automation using **Chromium, Firefox & WebKit**
-* 🧪 Experience in **Smoke, Regression, Functional & Integration Testing**
-* 📊 Experience with **TestNG, Git, GitHub and Azure DevOps**
-* 👥 Experience working with and supporting **QA teams**
-* 🔍 Focus on creating **maintainable, reusable and scalable automation frameworks**
+I'm a software testing professional with **10 years of experience in Manual and Automation Testing**, passionate about improving software quality through reliable automation, thoughtful test strategies, and continuous learning.
 
----
+- 🔭 **Working on:** Scalable UI and API automation frameworks
+- 🧪 **Automation expertise:** Selenium WebDriver with Java
+- 🎭 **Modern browser automation:** Playwright with JavaScript
+- 🔌 **API testing:** REST Assured and Postman
+- ⚡ **Performance testing:** Apache JMeter
+- 🏗️ **Framework design:** Page Object Model, TestNG, Maven, Cucumber
+- 📊 **Quality practices:** Functional, Regression, Smoke, Sanity, and Database Testing
+- 🤖 **Exploring:** GenAI testing, LLM evaluation, and intelligent test automation
+- 🎯 **Career focus:** Senior SDET and QA Automation Lead
 
-# 🚀 Playwright TypeScript Automation Framework
-
-This repository contains a **scalable Playwright automation framework developed using TypeScript**.
-
-The purpose of this framework is to demonstrate how a real-world QA automation project can be structured for:
-
-* UI automation
-* Regression testing
-* Smoke testing
-* Cross-browser testing
-* Parallel execution
-* Reusable test components
-* CI/CD execution
+> My philosophy: Quality is not just about finding bugs. It's about preventing defects, reducing risk, and delivering value to users.
 
 ---
 
-# 🧰 Technology Stack
+## 🛠️ My Tech Stack
 
-| Technology         | Purpose              |
-| ------------------ | -------------------- |
-| 🎭 Playwright      | UI Automation        |
-| 📘 TypeScript      | Programming Language |
-| 🟢 Node.js         | Runtime              |
-| 🧪 Playwright Test | Test Runner          |
-| 🧩 POM             | Framework Design     |
-| 🌐 GitHub          | Source Control       |
-| 🔄 Jenkins         | CI/CD                |
-| 📊 HTML Report     | Test Reporting       |
+### 💻 Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+### 🧪 Automation & Testing
+
+<p>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/TestNG-FF7043?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_Assured-3D9970?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
+</p>
+
+### ⚙️ Tools & Technologies
+
+<p>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+</p>
 
 ---
-
 # 📁 Framework Structure
 
 ```text
@@ -105,163 +109,101 @@ The purpose of this framework is to demonstrate how a real-world QA automation p
 ```
 
 ---
+## 🚀 Featured Projects
 
-# 🧩 Framework Architecture
+### 1. 🔥 Selenium + Java Automation Framework
 
-```text
-                 ┌─────────────────────┐
-                 │      Test Cases     │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │    Page Objects     │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │   Playwright API    │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │   Web Application   │
-                 └─────────────────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │  HTML Test Report   │
-                 └─────────────────────┘
-```
+A reusable automation framework designed to support reliable UI regression testing.
 
----
+**Technology:** Java · Selenium WebDriver · TestNG · Maven · POM · Extent Reports
 
-# ✨ Key Features
+**Key features**
+- Reusable page objects and common utilities
+- Centralized configuration and test execution
+- Failure screenshots and execution reports
+- Maintainable automation scripts
 
-### 🎯 Page Object Model
+[Explore my repositories →](https://github.com/seemaqaer-bit?tab=repositories)
 
-All page locators and reusable page actions are maintained separately from test cases.
+### 2. 🎭 Playwright Automation Framework
 
-### ⚡ Auto-Waiting
+Exploring modern end-to-end automation using Playwright and JavaScript.
 
-Playwright's built-in auto-waiting helps reduce flaky tests.
+**Key learning and implementation areas**
+- Robust locators and browser interactions
+- Auto-waiting and asynchronous JavaScript
+- Page Object Model and reusable components
+- Cross-browser testing and debugging
 
-### 🌐 Cross-Browser Testing
+[Explore my repositories →](https://github.com/seemaqaer-bit?tab=repositories)
 
-Tests can be executed against:
+### 3. 🔌 API Automation Testing
 
-* Chromium
-* Firefox
-* WebKit
+Automating API validations to improve integration quality and detect backend issues early.
 
-### 🚀 Parallel Execution
+**Technology:** REST Assured · Java · Postman
 
-Multiple tests can execute in parallel to reduce overall execution time.
+**Key areas**
+- HTTP methods and status codes
+- Request and response validation
+- Authentication and test data
+- API workflows and integration checks
 
-### 📸 Failure Evidence
+### 4. 🤖 GenAI Quality Engineering — Learning in Progress
 
-The framework can capture:
+Exploring how AI can improve traditional software testing.
 
-* Screenshots
-* Videos
-* Traces
-* Execution logs
+**Areas of interest**
+- AI-assisted test case generation
+- LLM response quality and accuracy evaluation
+- Prompt safety and adversarial testing
+- RAG-based application validation
+- Intelligent failure analysis and test optimization
 
-### 📊 Reporting
-
-Playwright HTML reports provide detailed information about test execution and failures.
+*Project descriptions should be updated as each implementation becomes available in my public repositories.*
 
 ---
 
-# ▶️ How to Run
+## 📈 GitHub Analytics
 
-### 1️⃣ Clone the repository
+<div align="center">
 
-```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-```
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=seemaqaer-bit&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
 
-### 2️⃣ Install dependencies
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seemaqaer-bit&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
-```bash
-npm install
-```
+<img width="95%" src="https://streak-stats.demolab.com?user=seemaqaer-bit&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
-### 3️⃣ Install Playwright browsers
+</div>
 
-```bash
-npx playwright install
-```
+---
+# 🎯 My QA Automation Goal
 
-### 4️⃣ Execute tests
+I am continuously improving my automation skills and exploring modern testing technologies including:
 
-```bash
-npx playwright test
-```
+**Playwright → API Automation → CI/CD → AI/GenAI Testing**
 
-### 5️⃣ Run in headed mode
-
-```bash
-npx playwright test --headed
-```
-
-### 6️⃣ Open test report
-
-```bash
-npx playwright show-report
-```
+My goal is to build **reliable, scalable and intelligent automation solutions** that improve software quality and reduce manual effort.
 
 ---
 
-# 🏷️ Test Execution
+## 🌱 My Learning Journey
 
-### Smoke Tests
+I'm continuously strengthening my skills in:
 
-```bash
-npx playwright test --grep @smoke
-```
+- Advanced Java and problem-solving
+- Playwright with TypeScript
+- API and microservices automation
+- CI/CD and automated test execution
+- GenAI and LLM-based application testing
 
-### Regression Tests
-
-```bash
-npx playwright test --grep @regression
-```
-
-### Specific Test
-
-```bash
-npx playwright test tests/login.spec.ts
-```
-
-### Debug Mode
-
-```bash
-npx playwright test --debug
-```
+I believe the best QA engineers combine technical expertise, analytical thinking, collaboration, and a strong user-first mindset.
 
 ---
 
-# 🔄 CI/CD Pipeline
 
-The framework can be integrated with Jenkins, GitHub Actions or Azure DevOps.
+</div>
 
-```text
-Developer
-    ↓
-Git Push
-    ↓
-GitHub
-    ↓
-CI/CD Pipeline
-    ↓
-Install Dependencies
-    ↓
-Install Playwright
-    ↓
-Run Automation Tests
-    ↓
-Generate Report
-    ↓
-Publish Results
-```
-
----
 
 # 📚 What This Project Demonstrates
 
@@ -283,32 +225,27 @@ This project demonstrates my practical understanding of building an automation f
 
 ---
 
-# 🎯 My QA Automation Goal
 
-I am continuously improving my automation skills and exploring modern testing technologies including:
 
-**Playwright → API Automation → CI/CD → AI/GenAI Testing**
+🤝 Let's Connect!
 
-My goal is to build **reliable, scalable and intelligent automation solutions** that improve software quality and reduce manual effort.
+I'm always happy to connect with SDETs, QA engineers, developers, and Quality Engineering professionals.
 
----
+<p align="center">
+<a href="https://github.com/seemaqaer-bit">
+<img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
 
-## 🤝 Connect With Me
+<div align="center">
 
-**Seema Singh**
-*QA Automation Engineer | SDET*
+💙 Thank you for visiting my profile!
 
-⭐ If you find this framework useful, feel free to star the repository and explore the code.
+Test thoughtfully. Automate intelligently. Deliver quality confidently.
 
----
+⭐ If you find my projects useful, consider giving them a star!
 
-### 💙 Keep Learning. Keep Automating. Keep Improving.
-
-```text
-        ┌─────────────────────────────┐
-        │       SEEMA SINGH           │
-        │   QA AUTOMATION ENGINEER    │
-        │                             │
-        │   Test • Automate • Improve │
-        └─────────────────────────────┘
-```
+</div>
