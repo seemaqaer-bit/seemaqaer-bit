@@ -1,19 +1,16 @@
 # 👋 Hi, I'm Seema Singh
+
+## <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/050bf2c8-0155-44f7-a1cb-40b65d99975b" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=10%2B+Years+in+Software+Testing;Selenium+%7C+Java+%7C+TestNG;Playwright+%7C+JavaScript;API+Testing+%7C+Performance+Testing;Exploring+GenAI+in+Quality+Engineering" alt="Typing animation" />
 ### 🚀 QA Automation Engineer | SDET | Test Automation Enthusiast
 
 > **“Quality is not an act, it is a habit.”**
 > — *Aristotle*
 
----
-
-## <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/050bf2c8-0155-44f7-a1cb-40b65d99975b" />
-
-
 <!-- PROFILE README FOR: https://github.com/seemaqaer-bit -->
 
 <div align="center">
-
+---
 
 **I don't just test software — I help build confidence in every release.**
 
